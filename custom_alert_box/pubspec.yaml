@@ -1,7 +1,7 @@
 name: custom_alert_box
 description: Affiche une boite de dialogue alerte
 version: 0.0.1
-homepage:
+homepage: https://github.com/Jerome-Go/flutter/tree/master/custom_alert_box
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
